@@ -5,10 +5,10 @@ Welcome to my GitHub Pages
 
 I have two large public projects here
 
-\<hr\>
+ 
 
-Pragma-git
-----------
+**Pragma-git**
+--------------
 
 ### The aim with "Pragma-git" is to be
 
@@ -39,10 +39,8 @@ Pragma-git
 
 ![](https://raw.githubusercontent.com/JanAxelsson/Pragma-git/master/images/Pragma-git-screen-shot.png)
 
-\<hr\>
-
-imlook4d
---------
+**imlook4d**
+------------
 
 This medical image processing software has been used in research since 2005, and
 features have been added continuously
@@ -68,5 +66,3 @@ features have been added continuously
 -   integrate with SPM and ImageJ
 
 ![](https://raw.githubusercontent.com/JanAxelsson/imlook4d/develop/Imlook4d_PET_MRI_screenshot.png)
-
-\<hr\>
