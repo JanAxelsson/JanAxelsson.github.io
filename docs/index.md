@@ -3,13 +3,13 @@ Welcome to my GitHub Pages
 
  
 
-I have two large public projects here, "[Pragma-git](#pragma-git)" and
-"[imlook4d](#imlook4d)".
+I have two large public projects here, "[Pragma-git](#--pragma-git)" and
+"[imlook4d](#--imlook4d)".
 
  
 
-**Pragma-git**
---------------
+**- Pragma-git**
+----------------
 
 [Download
 installer](https://www.dropbox.com/sh/wyrx7fq9nuvfgnb/AABHgmInOA2NinioGCYEE208a?dl=0&lst=).
@@ -44,8 +44,8 @@ installer](https://www.dropbox.com/sh/wyrx7fq9nuvfgnb/AABHgmInOA2NinioGCYEE208a?
 
 ![](https://raw.githubusercontent.com/JanAxelsson/Pragma-git/master/images/Pragma-git-screen-shot.png)
 
-**imlook4d**
-------------
+**- imlook4d**
+--------------
 
 This medical image processing software has been used in research since 2005, and
 features have been added continuously.[Visit on
