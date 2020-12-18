@@ -10,8 +10,6 @@ I have two major public projects here
 Pragma-git
 ----------
 
-![](https://raw.githubusercontent.com/JanAxelsson/Pragma-git/master/images/Pragma-git-screen-shot.png)
-
 ### The aim with *Pragma-git* is to be
 
 -   ”pragmatic” — aiming to be the opposite to how many beginners perceive
@@ -36,15 +34,13 @@ Pragma-git
 
 -   and of course dark and light modes
 
- 
+![](https://raw.githubusercontent.com/JanAxelsson/Pragma-git/master/images/Pragma-git-screen-shot.png)
 
 imlook4d
 --------
 
 This medical image processing software has been used in research since 2005, and
 features have been added continuously
-
-![](https://raw.githubusercontent.com/JanAxelsson/imlook4d/develop/Imlook4d_PET_MRI_screenshot.png)
 
  
 
@@ -65,3 +61,5 @@ features have been added continuously
 
 -   a problem solver for research — add your own interactive algorithms, do
     better research
+
+![](https://raw.githubusercontent.com/JanAxelsson/imlook4d/develop/Imlook4d_PET_MRI_screenshot.png)
