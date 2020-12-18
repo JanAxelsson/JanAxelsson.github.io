@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+Welcome to my GitHub Pages
+==========================
 
-You can use the [editor on GitHub](https://github.com/JanAxelsson/JanAxelsson.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have two major public projects here
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pragma-git
+----------
 
-```markdown
-Syntax highlighted code block
+ 
 
-# Header 1
-## Header 2
-### Header 3
+### The aim with *Pragma-git* is to be
 
-- Bulleted
-- List
+-   ”pragmatic” — aiming to be the opposite to how many beginners perceive
+    *git*, but yet having all functionality for pros
 
-1. Numbered
-2. List
+-   easy to start — and something to grow in for daily programming tasks
 
-**Bold** and _Italic_ and `Code` text
+-   friendly — guiding you through risks of data loss with pop-up warnings and
+    instructions
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Differences to other git clients
 
-### Jekyll Themes
+-   small window — no need hiding other apps
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanAxelsson/JanAxelsson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-   easy overview of project state
 
-### Support or Contact
+-   show buttons only when applicable — less confusion
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-   note taking — todo lists and notes at your finger tips
+
+ 
+
+imlook4d
+--------
+
+This medical image processing software has been used in research since 2005, and
+features have been added continuously
+
+ 
+
+### The aim with *imlook4d* is to be
+
+-   Easy to extend with own scripts in MATLAB (two extra lines integrates your
+    script with imlook4d GUI)
+
+-   Reads all standard radiological formats (DICOM, Nifti, Analyze, ECAT…)
+
+-   4D viewer, with VOI analysis, and pharmaco-kinetic modelling
+
+-   Integrates with SPM and ImageJ
+
+ 
+
+### Differences to other viewers
+
+-   A problem solver for research — add your own interactive algorithms, do
+    better research
