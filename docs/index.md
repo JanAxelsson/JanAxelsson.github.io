@@ -10,6 +10,9 @@ I have two large public projects here
 **Pragma-git**
 --------------
 
+[Visit github page](https://janaxelsson.github.io/Pragma-git/). [Download
+installer](https://www.dropbox.com/sh/wyrx7fq9nuvfgnb/AABHgmInOA2NinioGCYEE208a?dl=0).
+
 ### The aim with "Pragma-git" is to be
 
 -   ”pragmatic” — aiming to be the opposite to how many beginners perceive *git*
@@ -43,7 +46,8 @@ I have two large public projects here
 ------------
 
 This medical image processing software has been used in research since 2005, and
-features have been added continuously
+features have been added continuously.[ More
+details](https://janaxelsson.github.io/imlook4d/).
 
  
 
