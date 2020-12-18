@@ -3,17 +3,18 @@ Welcome to my GitHub Pages
 
  
 
-I have two major public projects here
+I have two large public projects here
 
- 
+\<hr\>
 
 Pragma-git
 ----------
 
-### The aim with *Pragma-git* is to be
+### The aim with "Pragma-git" is to be
 
--   ”pragmatic” — aiming to be the opposite to how many beginners perceive
-    *git*, but yet with standard functionality for pros
+-   ”pragmatic” — aiming to be the opposite to how many beginners perceive *git*
+
+-   yet with standard functionality for pros
 
 -   easy to start — and something to grow in for daily programming tasks
 
@@ -34,7 +35,11 @@ Pragma-git
 
 -   and of course dark and light modes
 
+-   Mac, Windows, Linux installers
+
 ![](https://raw.githubusercontent.com/JanAxelsson/Pragma-git/master/images/Pragma-git-screen-shot.png)
+
+\<hr\>
 
 imlook4d
 --------
@@ -44,16 +49,12 @@ features have been added continuously
 
  
 
-### The aim with *imlook4d* is to be
+### The aim with ”imlook4d" is to 
 
--   easy to extend with own scripts in MATLAB (two extra lines integrates your
-    script with imlook4d GUI)
+-   be easy to extend with own scripts in MATLAB (two extra lines integrates
+    your script with imlook4d GUI)
 
--   reads all standard radiological formats (DICOM, Nifti, Analyze, ECAT…)
-
--   4D viewer, with VOI analysis, and pharmaco-kinetic modelling
-
--   integrates with SPM and ImageJ
+-   read standard radiological formats (DICOM, Nifti, Analyze, ECAT…)
 
  
 
@@ -62,4 +63,10 @@ features have been added continuously
 -   a problem solver for research — add your own interactive algorithms, do
     better research
 
+-   4D viewer, with VOI analysis, and pharmaco-kinetic modelling
+
+-   integrate with SPM and ImageJ
+
 ![](https://raw.githubusercontent.com/JanAxelsson/imlook4d/develop/Imlook4d_PET_MRI_screenshot.png)
+
+\<hr\>
