@@ -11,9 +11,10 @@ I have two large public projects here, "[Pragma-git](#--pragma-git)" and
 **- Pragma-git**
 ----------------
 
-[Download
-installer](https://www.dropbox.com/sh/wyrx7fq9nuvfgnb/AABHgmInOA2NinioGCYEE208a?dl=0&lst=).
-[Visit on github](https://janaxelsson.github.io/Pragma-git/).
+[Download Installer
+here](https://github.com/JanAxelsson/Pragma-git/releases/latest).
+
+[Visit homepage](https://janaxelsson.github.io/Pragma-git/).
 
 ### The aim with "Pragma-git" is to be
 
@@ -48,12 +49,12 @@ installer](https://www.dropbox.com/sh/wyrx7fq9nuvfgnb/AABHgmInOA2NinioGCYEE208a?
 --------------
 
 This medical image processing software has been used in research since 2005, and
-features have been added continuously.[Visit on
-github](https://janaxelsson.github.io/imlook4d/).
+features have been added continuously.[Visit github homepage
+here](https://janaxelsson.github.io/imlook4d/).
 
  
 
-### The aim with ”imlook4d" is to 
+### The aim with ”imlook4d" is to
 
 -   be easy to extend with own scripts in MATLAB (two extra lines integrates
     your script with imlook4d GUI)
